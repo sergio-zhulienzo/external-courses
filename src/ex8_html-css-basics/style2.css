@@ -1,0 +1,16 @@
+#pict {background: green;}
+#aria {width: 400px;}
+.tab3{
+	text-indent: 40px;
+}
+.tab{
+	text-indent: 40px;
+	list-style-type: circle;
+}
+.tab2{
+	text-indent: 80px;	
+}
+img{ 
+	width: 200px;
+	height: 150px;
+} 
