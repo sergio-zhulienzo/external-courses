@@ -1,0 +1,26 @@
+body {background: rgb(200, 150, 65)}
+h1 {
+	border: 5px solid;
+	width: 300pt;
+	height: 50pt;
+	text-align: center;
+	margin: auto;
+	}
+ol, ul {
+	font: italic 16px arial;
+	color: red
+}
+h3 {background: pink}
+#pict {background: green}
+#aria {width: 400px}
+.tab3{text-indent: 40px}
+.tab{
+	text-indent: 40px;
+	list-style-type: circle;
+	}
+.tab2{text-indent: 80px}
+img{ 
+	width: 200px;
+	height: 150px;
+	} 
+table, th, td {border: 2px solid;}
